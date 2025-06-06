@@ -1,15 +1,8 @@
-body.container{
-    justify-content: center;
-    align-items: center;
-    text-align: center;
-    width: 50%;
-    margin: 0 auto;
+body {
+  background-color: #f8f9fa;
 }
 
-.container{
-    justify-content: center;
-    align-items: center;
-    text-align: center;
-    width: 50%;
-    margin: 0 auto;
+.card img {
+  height: 200px;
+  object-fit: cover;
 }
