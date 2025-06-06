@@ -1,0 +1,15 @@
+body.container{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 50%;
+    margin: 0 auto;
+}
+
+.container{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 50%;
+    margin: 0 auto;
+}
